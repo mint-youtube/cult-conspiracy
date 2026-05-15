@@ -4,6 +4,7 @@ export const CHANNEL = {
   emoji: "🔺",
   category: "공포/미스터리",
   tagline: "감춰진 모임, 풀리지 않는 의문",
+  youtubeUrl: "https://youtube.com/channel/UCEfGRwb2cJ9yWbZ6kQSc5Sw",
   layoutId: "occult-board",
   isLight: false,
   tokens: {
