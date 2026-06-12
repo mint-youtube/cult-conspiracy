@@ -5,7 +5,7 @@ pubDate: 2026-05-18T17:30:00+09:00
 author: ""
 category: ""
 tags: ["테슬라", "워든클리프", "JP모건", "무선전력", "음모론", "1퍼센트법칙"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=EcaPv34QA8g"
 heroImage: ""
 draft: false
 ---

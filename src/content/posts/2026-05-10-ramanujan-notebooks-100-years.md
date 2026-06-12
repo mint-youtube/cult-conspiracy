@@ -5,7 +5,7 @@ pubDate: 2026-05-11T09:00:00+09:00
 author: ""
 category: ""
 tags: ["라마누잔", "스리니바사 라마누잔", "인도 천재 수학자", "하디 라마누잔", "1729 택시수", "잃어버린 노트", "나마기리 여신", "수학 천재", "케임브리지 수학자", "정수론", "무한급수", "모의 세타 함수", "수학사", "천재 일대기", "케임브리지 트리니티 칼리지"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=3KZOiYd4X9k"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-05-10-ramanujan-notebooks-100-years/intro_img_2.png"
 draft: false
 ---

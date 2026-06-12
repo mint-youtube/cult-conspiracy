@@ -5,7 +5,7 @@ pubDate: 2026-05-18T17:30:00+09:00
 author: ""
 category: ""
 tags: ["헨리에타레빗", "허블", "여성과학자", "천문학역사", "우주크기측정", "세페이드변광성", "잊힌과학자", "하버드천문대"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=RQnQ7CGuVlM"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-05-18-henrietta-leavitt-universe-size/scene-2_img_2.png"
 draft: false
 ---

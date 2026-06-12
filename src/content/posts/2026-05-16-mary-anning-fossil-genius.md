@@ -5,7 +5,7 @@ pubDate: 2026-05-17T09:00:00+09:00
 author: ""
 category: ""
 tags: ["메리 애닝", "어룡 화석 발견", "익티오사우루스", "플레시오사우루스", "19세기 여성 과학자", "마틸다 효과", "라임 레지스", "지워진 과학자", "여성 과학자 차별", "음모론 역사"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=4nEUMIxjNjs"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-05-16-mary-anning-fossil-genius/scene-2_img_2.png"
 draft: false
 ---

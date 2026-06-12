@@ -5,7 +5,7 @@ pubDate: 2026-05-21T10:43:00+09:00
 author: ""
 category: ""
 tags: ["MK-Ultra", "CIA", "정신 통제 실험", "처치 위원회", "록펠러 보고서", "1977 청문회", "시드니 고틀립", "냉전 비밀 프로젝트", "내부고발", "정부 비밀활동"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=ZbPSt48n2tk"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-05-21-mk-ultra-cia-confirmed-1977/scene-2_img_2.png"
 draft: false
 ---
