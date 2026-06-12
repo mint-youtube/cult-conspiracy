@@ -5,7 +5,7 @@ pubDate: 2026-06-13T09:00:00+09:00
 author: ""
 category: ""
 tags: ["에미뇌터", "뇌터정리", "여성수학자", "아인슈타인극찬", "추상대수학", "나치추방수학자", "브린모어대학", "힉스보손수학", "수학사여성", "잊혀진천재"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=sZr9n7cDmHA"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-06-13-emmy-noether-lost-mathematician/scene-2_img_2.png"
 draft: false
 ---
