@@ -5,7 +5,7 @@ pubDate: 2026-06-23T13:55:00+09:00
 author: ""
 category: ""
 tags: ["COINTELPRO", "FBI 감시", "마틴 루터 킹 협박", "블랙팬서 탄압", "미국 음모론", "감시국가", "에드거 후버", "처치위원회", "국가 권력 남용", "미국현대사"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=RSXO8ODWlaU"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-06-23-cointelpro-fbi-1956-1971-surveillance/scene-2_img_2.png"
 draft: false
 ---
