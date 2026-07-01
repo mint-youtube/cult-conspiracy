@@ -5,7 +5,7 @@ pubDate: 2026-07-02T09:00:00+09:00
 author: ""
 category: ""
 tags: ["옴진리교", "도쿄 지하철 사린", "1995 사린 가스", "아사하라 쇼코", "사티안 7호", "마쓰모토 사건", "무라이 히데오", "일본 사이비 종교", "신흥종교", "13명 사형 집행"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=EymKysH9HPc"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-07-02-aum-shinrikyo-tokyo-subway-sarin-1995/scene-2_img_2.png"
 draft: false
 ---
