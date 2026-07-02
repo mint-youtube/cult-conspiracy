@@ -5,7 +5,7 @@ pubDate: 2026-07-02T20:42:00+09:00
 author: ""
 category: ""
 tags: ["보헤미안 그로브", "보헤미안 클럽", "1872년", "캘리포니아", "비밀결사", "엘리트 캠프", "케어 오브 케어", "맨해튼 프로젝트", "알렉스 존스", "닉슨"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=-LGwH2nJ98o"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-07-02-bohemian-grove-1872-elite-summer-camp/scene-2_img_2.png"
 draft: false
 ---
