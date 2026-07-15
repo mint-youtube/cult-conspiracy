@@ -5,7 +5,7 @@ pubDate: 2026-07-15T10:13:00+09:00
 author: ""
 category: ""
 tags: ["대륙이동설", "베게너", "판구조론", "판게아", "과학사", "지구과학", "맨틀 대류", "잊힌 천재"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=gzn7SmrLUVc"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-07-15-wegener-continental-drift-mocked/scene-2_img_2.png"
 draft: false
 ---
