@@ -5,7 +5,7 @@ pubDate: 2026-07-16T09:46:00+09:00
 author: ""
 category: ""
 tags: ["베살리우스", "해부학", "갈레노스", "의학사", "인체의 구조", "근대 의학", "파도바 대학", "잊힌 천재"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=5EtAmcm-PGk"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-07-16-vesalius-anatomy-correction/scene-2_img_2.png"
 draft: false
 ---
