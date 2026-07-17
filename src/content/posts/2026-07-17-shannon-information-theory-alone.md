@@ -5,7 +5,7 @@ pubDate: 2026-07-17T18:01:00+09:00
 author: ""
 category: ""
 tags: ["클로드 섀넌", "정보이론", "비트", "디지털", "과학사", "벨연구소", "섀넌 한계", "잊힌 천재"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=vPE1wlQT7zM"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-07-17-shannon-information-theory-alone/scene-2_img_2.png"
 draft: false
 ---
