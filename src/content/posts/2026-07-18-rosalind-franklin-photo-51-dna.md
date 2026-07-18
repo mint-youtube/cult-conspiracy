@@ -5,7 +5,7 @@ pubDate: 2026-07-18T20:06:00+09:00
 author: ""
 category: ""
 tags: ["로절린드 프랭클린", "사진 51번", "DNA", "이중나선", "과학사", "X선 결정학", "노벨상", "여성 과학자"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=azUx1cNGUjY"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-07-18-rosalind-franklin-photo-51-dna/scene-2_img_2.png"
 draft: false
 ---
