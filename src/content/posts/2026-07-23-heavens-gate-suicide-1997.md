@@ -5,7 +5,7 @@ pubDate: 2026-07-23T23:00:00+09:00
 author: ""
 category: ""
 tags: ["천국의 문", "사이비 종교", "집단 자살", "마인드 컨트롤", "컬트 심리", "집단 심리", "1997년 사건", "사이비 빠지는 이유"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=uzbINUc5Q6M"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-07-23-heavens-gate-suicide-1997/scene-2_img_2.png"
 draft: false
 ---
