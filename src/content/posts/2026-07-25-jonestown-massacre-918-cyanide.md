@@ -5,7 +5,7 @@ pubDate: 2026-07-25T09:00:00+09:00
 author: ""
 category: ""
 tags: ["존스타운", "인민사원", "사이비 종교", "집단 비극", "마인드 컨트롤", "집단 사고", "컬트 심리", "1978년 사건"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=4_9yw5Neypk"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-07-25-jonestown-massacre-918-cyanide/scene-2_img_2.png"
 draft: false
 ---
