@@ -5,7 +5,7 @@ pubDate: 2026-07-26T19:11:00+09:00
 author: ""
 category: ""
 tags: ["비비안마이어", "비비안 마이어 사진", "숨겨진 천재 사진가", "존 말루프", "스트리트 사진", "잊힌 천재", "사후 발견 예술가", "시카고 보모 사진가"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=mIxxW9WS_Pw"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-07-26-vivian-maier-photographer-after-death/scene-2_img_2.png"
 draft: false
 ---
