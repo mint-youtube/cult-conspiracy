@@ -5,7 +5,7 @@ pubDate: 2026-07-29T19:58:00+09:00
 author: ""
 category: ""
 tags: ["루돌프 디젤", "디젤 엔진 발명가", "디젤 실종 사건", "1913년 북해", "디젤 음모론", "미제 실종", "잠수함 엔진", "미스터리 실화"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=1qR7LaK5csU"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-07-29-rudolf-diesel-disappearance-1913/scene-2_img_2.png"
 draft: false
 ---
