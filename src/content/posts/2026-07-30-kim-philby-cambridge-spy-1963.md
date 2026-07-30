@@ -5,7 +5,7 @@ pubDate: 2026-07-30T19:39:00+09:00
 author: ""
 category: ""
 tags: ["킴 필비", "케임브리지 5인조", "이중스파이", "냉전 스파이", "영국 정보부", "MI6 배신", "베이루트 실종", "첩보 실화"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=U8GFXeEqim4"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-07-30-kim-philby-cambridge-spy-1963/scene-2_img_2.png"
 draft: false
 ---
