@@ -5,7 +5,7 @@ pubDate: 2026-07-31T11:12:00+09:00
 author: ""
 category: ""
 tags: ["니콜라 부르바키", "부르바키", "수학의 역사", "비밀 결사", "20세기 수학", "잊힌 천재", "집단 지성", "음모론"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=TO7qqEwD3NI"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-07-31-bourbaki-collective-fake-mathematician/scene-2_img_2.png"
 draft: false
 ---
