@@ -5,7 +5,7 @@ pubDate: 2026-08-01T09:00:00+09:00
 author: ""
 category: ""
 tags: ["투르크인", "체스 기계", "켐펠렌", "나폴레옹 체스", "자동인형", "역사 미스터리", "기계장치", "음모론"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=r8Tfzyb2KsI"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-08-01-the-turk-chess-automaton-hoax/scene-2_img_2.png"
 draft: false
 ---
