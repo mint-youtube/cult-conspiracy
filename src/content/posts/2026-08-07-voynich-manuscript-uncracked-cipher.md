@@ -5,7 +5,7 @@ pubDate: 2026-08-07T18:24:00+09:00
 author: ""
 category: ""
 tags: ["보이니치 필사본", "미해독 암호", "암호해독", "미스터리 고서", "프리드먼", "고대 문자", "역사 미스터리", "음모론"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=pQrLG1-4QEY"
 heroImage: "https://assets.dailynote.blog/cult-conspiracy/2026-08-07-voynich-manuscript-uncracked-cipher/scene-2_img_3.png"
 draft: false
 ---
